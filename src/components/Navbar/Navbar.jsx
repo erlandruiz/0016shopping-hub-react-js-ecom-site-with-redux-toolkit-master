@@ -29,8 +29,8 @@ export const Navbar = () => {
           <div className="navbar-top flex-flex-between">
             {/* Logo de la tienda */}
             <Link to="/" className="navbar-brand">
-              <span className="text-regal-blue">Shooping</span>
-              <span className="text-gold">Hub.</span>
+              <span className="text-regal-blue">Erland</span>
+              <span className="text-gold">EPP.</span>
             </Link>
 
             {/* Buscar */}
